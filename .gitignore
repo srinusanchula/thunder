@@ -1,0 +1,11 @@
+build/
+out/
+target/
+
+.gradle
+.idea
+
+*.class
+*.iml
+*.jar
+*.war

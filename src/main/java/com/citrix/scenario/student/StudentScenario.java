@@ -6,7 +6,7 @@ import com.citrix.data.Input;
 
 public class StudentScenario extends Scenario {
     private static final String NAME = "STUDENT";
-    private static final String BASE_URL = "http://10.61.242.161:8080";
+    private static final String BASE_URL = "http://localhost:8080";
 
     private StudentScenario(Input input) {
         super(input);
